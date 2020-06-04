@@ -1,5 +1,5 @@
 git filter-branch --env-filter '
-OLD_EMAIL="sharyuergui@gmail.com"
+OLD_EMAIL="sharyuergui1@gmail.com"
 CORRECT_NAME="zifa"
 CORRECT_EMAIL="zifa@example.com"
 
